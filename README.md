@@ -105,6 +105,13 @@ This experience helped me understand how to build a virtual environment for cybe
 
 ---
 
-**🙏Special thanks to Networkwalks and Waqas Karim CCIE for their guidance and support.**
+Sairohitha kuchala
+
+Cybersecurity Intern at Networkwalks-B084
+
+Linkedin :www.linkedin.com/in/sairohitha-kuchala-688b20403/
+
+
+---
 
 #Networkwalks #Cybersecurity #KaliLinux #VirtualBox #SOCAnalyst
